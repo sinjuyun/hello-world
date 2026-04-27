@@ -1,3 +1,3 @@
 # Hello world
 
-You're got damn right.
+You're god damn right.
